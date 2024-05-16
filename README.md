@@ -1,4 +1,4 @@
-# :wave: These are my details 
+# :wave: These are my detail:
 
 ## Name: Angelo Kwaku Boateng
 
