@@ -10,4 +10,4 @@ def hello_world_n(N):
     rs_n = print(results)
     return rs_n
 
-hello_world_n(N)
+hello_world_n(3)
