@@ -5,5 +5,5 @@ def hello_world():
 
 
 def hello_world_n(N):
-	return "Hello World! "*N
-
+     rs_n = print("Hello World! " * N)
+     return rs_n
