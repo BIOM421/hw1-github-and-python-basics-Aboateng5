@@ -1,7 +1,13 @@
-import hello
+def hello_world():
+    results = "Hello World!"
+    rs = print(results)
+    return rs
 
-def test_hello():
-    assert hello.hello_world() == "Hello World!"
-    
-def test_Nhello():
-    assert hello.hello_world_n(3) == "Hello World! Hello World! Hello World!"
+hello_world()
+
+def hello_world_n(N):
+    results = "Hello World! "*N
+    rs_n = print(results)
+    return rs_n
+
+hello_world_n(N)
